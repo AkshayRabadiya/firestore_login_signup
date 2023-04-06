@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "462149728747",
+    "project_id": "flutter-firestore-login-signup",
+    "storage_bucket": "flutter-firestore-login-signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462149728747:android:7414290cbd25f6742cc1ae",
+        "android_client_info": {
+          "package_name": "com.example.firestore_login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462149728747-s1op6adjbj0lh1c07i2nne678qpugmh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGP6l4fcsjqNWovUfwz4Ur85BDldpdwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462149728747-s1op6adjbj0lh1c07i2nne678qpugmh4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462149728747-db14udavnptfra3a03ul3tfc5bmjiu8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462149728747:android:652671e7c4512e602cc1ae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462149728747-s1op6adjbj0lh1c07i2nne678qpugmh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGP6l4fcsjqNWovUfwz4Ur85BDldpdwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462149728747-s1op6adjbj0lh1c07i2nne678qpugmh4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462149728747-db14udavnptfra3a03ul3tfc5bmjiu8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
